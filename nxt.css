@@ -46,14 +46,12 @@ input{
     background-color: white;
 }
 
-/* Subtle Borders */
 .form-control{
     border: 0px;
 }
 .form-select{
     border: 0px;
 }
-/* Soft Shadows */
 .search-form {
     
     display: flex;
