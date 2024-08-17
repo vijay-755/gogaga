@@ -1,0 +1,170 @@
+body{
+    font-family:  'Roboto',sans-serif;
+    color: white;
+    
+}
+h1{
+    font-weight: 700;
+
+}
+p{
+    font-weight: 400;
+}
+input{
+    font-weight: 300;
+}
+.backGrnd{
+    background-image: url("https://travellersworldwide.com/wp-content/uploads/2022/01/shutterstock_1730120926.jpg.webp");
+    background-size: cover;
+    width: 100vw;
+    padding: 50px;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}
+.navbar{
+    top:0;
+}
+
+.logo{
+    height: 70px;
+    width: 90px;
+}
+.fa-sharp{
+    color: black;
+}
+
+.btn{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border: 0px;
+}
+.btn2{
+    border: 0px;
+    background-color: white;
+}
+
+/* Subtle Borders */
+.form-control{
+    border: 0px;
+}
+.form-select{
+    border: 0px;
+}
+/* Soft Shadows */
+.search-form {
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: start;
+}
+.ratingbtn1{
+    background-color: black;
+    color:white;
+    border: 0px;
+    width: 45px;
+    height: 30px;
+    border-radius: 10px;
+    margin: 5px;
+    align-items: center;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ratingbtn2{
+    background-color: black;
+    color:white;
+    border: 0px;
+    width: 75px;
+   
+    border-radius: 10px;
+    margin: 5px;
+    align-items: center;
+    height: 100px;
+}
+.ratingbtn3{
+    background-color:rgb(236, 234, 234);
+    border: 0px;
+    width: 45px;
+    height: 30px;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.bottom{
+    align-items: center;
+    color: black;
+}
+.cont{
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+   margin-right: 20px;
+   color: black;
+   display: flex;
+   padding: 10px;
+   flex-direction: column;
+   justify-content: center;
+   align-items: start;
+   height: 100px;
+   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+.date{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+}
+.bi{
+    color: white;
+    margin: 2px;
+    font-size: 1.5rem;
+}
+.bi-globe2{
+    color: black;
+    font-size: 1.5rem;
+}
+.bi-inboxes-fill{
+    color: black;
+    margin-left: 3px;
+    font-size: 1.5rem;
+}
+.heading{
+    padding-left: 45px;
+    
+}
+.bi-star1{
+    color: black;
+    margin: 2px;
+    font-size: 1.5rem;
+}
+.bi-moon-fill{
+    color: black;
+    font-size: 1.5rem;
+}
+.moon{
+    align-self: center;
+    margin: 10px;
+}
+.bi-list{
+    color: #000;
+    font-size: 1.5rem;
+
+}
+.bi-person-fill{
+    color: black;
+    font-size: 1.5rem;
+}
+.user{
+    color: black;
+    display: flex;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+}
